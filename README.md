@@ -28,12 +28,12 @@ waze-user-churn-analysis/
 │   ├── 4 - Regression Modeling.ipynb
 │   └── 5 - Machine Learning.ipynb
 ├── Docs/                # Supporting documentation such as proposals and executive summaries
-│   ├── Waze Project Proposal.docx
-│   ├── PACE Strategy Document.docx
-│   ├── Preliminary Data Summary.pptx
-│   ├── 1 - Executive Summary.pptx
-│   ├── 2 - Executive Summary.pptx
-│   ├── 3 - Executive Summary.pptx
-│   ├── 4 - Executive Summary.pptx
-│   └── 5 - Executive Summary.pptx
+│   ├── Waze Project Proposal.pdf
+│   ├── PACE Strategy Document.pdf
+│   ├── Preliminary Data Summary.pdf
+│   ├── 1 - Executive Summary.pdf
+│   ├── 2 - Executive Summary.pdf
+│   ├── 3 - Executive Summary.pdf
+│   ├── 4 - Executive Summary.pdf
+│   └── 5 - Executive Summary.pdf
 ├── README.md            # This file
